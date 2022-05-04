@@ -1,14 +1,18 @@
 # React Starter Quick Setup
 
+## Notes
+Help user to quick start the React project
+
 ## Starter Project
 
 - git clone the project
 - navigate to the folder
 - run `npm start && npm install`(you can also use `pnpm start && pnpm install` if you have `pnpm` install)
 
-## [pnpm] (https://pnpm.io/installation)
+## [pnpm](https://pnpm.io/installation)
 ```
-pnpm is an alternative package manager for Node.js. It is a drop-in replacement for npm, but faster and more efficient.
+pnpm is an alternative package manager for Node.js.
+It is a drop-in replacement for npm, but faster and more efficient.
 ```
 ```
 pnpm install -g pnpm
