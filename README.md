@@ -4,11 +4,14 @@
 
 - git clone the project
 - navigate to the folder
-- run `npm start && npm install`(you can also use `pnpm start && pnpm install` if you have [pnpm](https://pnpm.io/installation) install)
+- run `npm start && npm install`(you can also use `pnpm start && pnpm install` if you have `pnpm` install)
 
-## `pnpm` installation
+## [pnpm] (https://pnpm.io/installation)
 ```
-npm install -g pnpm
+pnpm is an alternative package manager for Node.js. It is a drop-in replacement for npm, but faster and more efficient.
+```
+```
+pnpm install -g pnpm
 brew install pnpm
 ```
 
