@@ -3,7 +3,7 @@
 ## Notes
 Help user to quick start the React project
 
-## Starter Project
+## Installation
 
 - git clone the project
 - navigate to the folder
