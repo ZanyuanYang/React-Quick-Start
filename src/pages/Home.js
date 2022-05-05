@@ -8,9 +8,14 @@ const Home = (() => {
     <div>
       <h1>home</h1>
       <h2>{example}</h2>
+      <div className='shadow-2xl h-60 w-60 bg-current rounded-full'>
+
+      </div>
     </div>
 
   )
 })
+
+
 
 export default Home
