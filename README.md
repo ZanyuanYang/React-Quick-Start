@@ -3,6 +3,9 @@
 ## Notes
 Help user to quick start the React project
 
+## UI library
+[Tailwind CSS](https://tailwindcss.com/)
+
 ## Installation
 
 - git clone the project
