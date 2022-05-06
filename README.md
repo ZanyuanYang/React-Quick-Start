@@ -3,6 +3,9 @@
 ## Notes
 Help user to quick start the React project
 
+## UI library
+[Material UI](https://mui.com/)
+
 ## Installation
 
 - git clone the project
