@@ -4,8 +4,7 @@
 Help user to quick start the React project
 
 ## UI Library
-- [Branch: MUI](https://github.com/ZanyuanYang/React-Quick-Start/tree/MUI) -- [Material UI](https://mui.com/)
-- [Branch: tailwindcss](https://github.com/ZanyuanYang/React-Quick-Start/tree/tailwindcss) -- [Tailwind CSS](https://tailwindcss.com/)
+- [React-Bootstrap](https://react-bootstrap.github.io/)
 
 ## Installation
 
